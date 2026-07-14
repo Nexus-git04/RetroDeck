@@ -38,7 +38,7 @@ window.RetroHome = (() => {
       cover: 'roadfury',
       lore: 'The last unlicensed food-delivery bike race. Punch rival riders, dodge cops, hit the finish line before your app times you out. 90s asphalt fury, 2026 hustle.',
       meta: ['SP • 1 PLAYER', 'RATED M', 'PSEUDO-3D RACER'],
-      controls: ['<b>W / ↑</b> — accelerate', '<b>S / ↓</b> — brake', '<b>A D / ← →</b> — lean', '<b>Space</b> — punch rival', '<b>Shift</b> — NITRO', '<b>Esc</b> — eject']
+      controls: ['<b>W / ↑</b> — accelerate', '<b>S / ↓</b> — brake', '<b>A D / ← →</b> — lean', '<b>Space</b> — attack (fists or weapon)', '<b>Q</b> — drop weapon', '<b>E</b> — drop oil slick', '<b>Shift</b> — NITRO', '<b>Esc</b> — eject']
     }
   ];
 
